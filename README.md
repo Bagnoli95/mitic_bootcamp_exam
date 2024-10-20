@@ -1,6 +1,6 @@
-# Retail Sales Analysis
+# Examenes del Bootcamp Data science && Machine Learning
 
-Este proyecto analiza y predice las ventas de una tienda de retail utilizando técnicas de ciencia de datos.
+Este proyecto aloja el desarrollo y resultado de los examenes del bootcmap
 
 ## Estructura del Proyecto
 
